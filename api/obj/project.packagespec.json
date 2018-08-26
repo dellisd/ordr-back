@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\derek\\RiderProjects\\ordr-backend\\api\\api.csproj",
+    "projectName": "api",
+    "projectPath": "C:\\Users\\derek\\RiderProjects\\ordr-backend\\api\\api.csproj",
+    "outputPath": "C:\\Users\\derek\\RiderProjects\\ordr-backend\\api\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "Swashbuckle.AspNetCore.Swagger": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

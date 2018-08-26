@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\derek\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_ordr-backend.1536896432.00" t="ExcludeRecursive" />
+    <e p="C:\Users\derek\RiderProjects\ordr-backend" t="IncludeFlat">
+      <e p="api" t="IncludeRecursive">
+        <e p="api.csproj" t="IncludeRecursive" />
+        <e p="app.yaml" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+          <e p="DbRestaurant.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="openapi.yaml" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="ordr-backend.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

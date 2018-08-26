@@ -1,0 +1,11 @@
+C:\Users\derek\RiderProjects\ordr-backend\api\bin\Debug\netcoreapp2.0\api.deps.json
+C:\Users\derek\RiderProjects\ordr-backend\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+C:\Users\derek\RiderProjects\ordr-backend\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+C:\Users\derek\RiderProjects\ordr-backend\api\bin\Debug\netcoreapp2.0\api.dll
+C:\Users\derek\RiderProjects\ordr-backend\api\bin\Debug\netcoreapp2.0\api.pdb
+C:\Users\derek\RiderProjects\ordr-backend\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+C:\Users\derek\RiderProjects\ordr-backend\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+C:\Users\derek\RiderProjects\ordr-backend\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+C:\Users\derek\RiderProjects\ordr-backend\api\obj\Debug\netcoreapp2.0\api.dll
+C:\Users\derek\RiderProjects\ordr-backend\api\obj\Debug\netcoreapp2.0\api.pdb
+C:\Users\derek\RiderProjects\ordr-backend\api\bin\Debug\netcoreapp2.0\app.yaml
